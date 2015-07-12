@@ -15,7 +15,7 @@ No external dependencies as only standard modules are used.<br>
 
 Design:
 
- We find similarity like Rotation,Scaling,Mirriong etc and we also provide a percentage of similarity
+ We find similarity like Rotation,Scaling,Mirriong etc and we also provide a percentage of similarity. We find Root Mean Square value histogram difference and convert it into Percentage of similarity
  
 Team Members:
 
